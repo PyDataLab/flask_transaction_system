@@ -1,1 +1,0 @@
-# flask_transaction_system
